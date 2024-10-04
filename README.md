@@ -3,6 +3,6 @@
 # Aviator-Predictor-App-
 
 [DOWNLOAD THE APP NOW]
-Click Here{https://sites.google.com/view/aviator-predictor-app/home}
+[Click Here]{https://sites.google.com/view/aviator-predictor-app/home)
 Free for android and ios devices. 
 Enjoy the app and never lose again.
