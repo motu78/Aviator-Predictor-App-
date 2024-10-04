@@ -1,8 +1,0 @@
-![369889b9-c2a1-4e82-820d-43566071fae1-1024x594](https://github.com/user-attachments/assets/92a62914-c18d-499a-bcd3-e9a83c3f2c94)
-
-# Aviator-Predictor-App-
-
-[DOWNLOAD THE APP NOW]
-[Click Here]{https://sites.google.com/view/aviator-predictor-app/home}
-Free for android and ios devices. 
-Enjoy the app and never lose again.
